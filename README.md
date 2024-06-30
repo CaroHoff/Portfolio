@@ -1,2 +1,2 @@
 # Portfolio
-Examples Data Science portfolio
+Examples Data Analyst portfolio
