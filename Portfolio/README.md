@@ -1,2 +1,2 @@
 # Portfolio
-Examples Data Science portfolio
+Examples of analysis using Business Intelligence tools
